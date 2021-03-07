@@ -1,5 +1,6 @@
 # Test
 fija/2/11:30:00/attack   
+fija/2/15:15:00/GRIT SERIES   
 
 # Lunes
 fija/1/18:15:00/STEP
