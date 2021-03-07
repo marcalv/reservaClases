@@ -1,6 +1,5 @@
 # reservaClases
 
-## Instrucciones
 ### Reserva Puntual
 Usa el script con el plugin "TamperMonkey" para copiar el identificador de la clase y reservarla **una única vez**. Si quieres reservar en otras semanas tendrás que copiar de nuevo el identificador o leer la siguiente sección.
 El identificador que has de enganchar en el archivo de texto tiene la siguiente aparencia: `5120/2021-03-22/07:00:00/G.A.C./AMANDA`
