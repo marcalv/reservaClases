@@ -1,0 +1,4 @@
+# Ejemplo clase única
+# 5242/2021-03-09/20:15:00/BODY COMBAT/PITU
+# Ejemplo clase fija
+# fija/2/20:15:00/BODY COMBAT
