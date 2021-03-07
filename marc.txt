@@ -2,6 +2,7 @@
 fija/2/07:00:00/funcional
 fija/2/09:30:00/aerobic
 fija/2/09:45:00/AQUAGIM
+fija/2/10:15:00/CYCLING  
 
 # Lunes
 fija/1/18:15:00/STEP
