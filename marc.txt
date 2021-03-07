@@ -1,6 +1,5 @@
 # Test
-fija/2/10:15:00/CYCLING  
-fija/2/10:00:00/KAMINA
+fija/2/11:30:00/attack   
 
 # Lunes
 fija/1/18:15:00/STEP
