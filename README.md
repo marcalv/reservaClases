@@ -12,7 +12,6 @@ Por ejemplo, si quieres reservar el Step de los miércoles a las 19:15:00, añad
 #### Ejemplos:
 ##### Reserva de step y pump todos los lunes por la tarde
 ```
-# Reserva 
 fija/1/18:15:00/STEP
 fija/1/19:15:00/BODYPUMP
 ```
