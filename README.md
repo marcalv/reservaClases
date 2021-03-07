@@ -17,8 +17,7 @@ fija/1/18:15:00/STEP
 fija/1/19:15:00/BODYPUMP
 ```
 
-##### Reserva de step todos los sábados
+##### Reserva Zumba miércoles por la mañana
 ```
-# Sabado
-fija/6/11:15:00/STEP
+fija/3/09:30:00/ZUMBA
 ```
