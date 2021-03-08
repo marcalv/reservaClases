@@ -1,6 +1,5 @@
 # Test
-fija/3/07:00:00/SOULBODY
-fija/3/07:00:00/SOUfffffffLBODY
+fija/3/10:30:00/FUNCIONAL
 
 # Lunes
 fija/1/18:15:00/STEP
