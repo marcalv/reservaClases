@@ -1,5 +1,4 @@
 # Test
-fija/3/10:30:00/FUNCIONAL
 
 # Lunes
 fija/1/18:15:00/STEP
