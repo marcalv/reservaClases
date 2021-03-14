@@ -12,6 +12,7 @@ fija/2/19:15:00/IOGA
 
 # Miercoles
 fija/3/18:15:00/BALANCE
+fija/3/07:00:00/SOUL
 
 # Jueves
 #fija/4/20:15:00/BODYPUMP
