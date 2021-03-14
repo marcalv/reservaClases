@@ -7,14 +7,15 @@
 fija/1/19:15:00/ATTACK
 
 # Martes
-fija/2/20:15:00/COMBAT
+fija/2/19:15:00/ATTACK
+fija/2/19:15:00/IOGA
 
 # Miercoles
-fija/3/19:15:00/STEP
+fija/3/18:15:00/BALANCE
 
 # Jueves
-fija/4/19:15:00/AEROBIC
-fija/4/20:15:00/BODYPUMP
+#fija/4/20:15:00/BODYPUMP
 
 # Viernes
-fija/5/19:15:00/COMBAT
+fija/5/17:15:00/BALANCE
+fija/5/20:15:00/ATTACK
