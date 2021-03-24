@@ -16,6 +16,7 @@ fija/4/20:15:00/BODYPUMP
 
 # Viernes
 fija/5/19:15:00/COMBAT
+fija/5/20:15:00/ATTACK
 
 # Sabado
 fija/6/11:15:00/STEP
