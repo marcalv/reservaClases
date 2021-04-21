@@ -1,5 +1,5 @@
 # Test
-fija/5/10:30:00/ZUMBA
+fija/5/17:15:00/ZUMBA
 
 # Lunes
 # fija/1/18:15:00/STEP
