@@ -1,9 +1,4 @@
 # Test
-fija/1/10:30:00/GIM
-fija/1/11:15:00/AQUA
-fija/1/11:30:00/ZUMBA
-fija/1/14:15:00/BALANCE
-fija/1/15:15:00/PUMP
 
 # Lunes
 fija/1/20:15:00/CUBE
