@@ -1,8 +1,10 @@
 # Test
+fija/1/10:30:00/GIM
+fija/1/11:30:00/ZUMBA
+fija/1/14:15:00/BALANCE
+fija/1/15:15:00/PUMP
 
 # Lunes
-# fija/1/18:15:00/STEP
-# fija/1/19:15:00/BODYPUMP
 fija/1/20:15:00/CUBE
 
 # Martes
