@@ -11,13 +11,14 @@ fija/3/19:15:00/STEP
 fija/3/20:15:00/CUBE
 
 # Jueves
-# fija/4/19:15:00/AEROBIC
+fija/4/19:15:00/AEROBIC
 # fija/4/20:15:00/BODYPUMP
+fija/1/20:15:00/CUBE
 
 # Viernes
 # fija/5/19:15:00/COMBAT
 # fija/5/20:15:00/ATTACK
-fija/1/20:15:00/CUBE
+
 
 # Sabado
 fija/6/11:15:00/STEP
