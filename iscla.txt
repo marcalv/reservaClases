@@ -8,11 +8,12 @@
 fija/1/19:15:00/ATTACK
 
 # Martes
-fija/2/19:15:00/ATTACK
+#fija/2/19:15:00/ATTACK
 #fija/2/19:15:00/IOGA
 
 # Miercoles
 fija/3/18:15:00/BALANCE
+fija/3/20:15:00/CUBE
 
 # Jueves
 #fija/4/20:15:00/BODYPUMP
