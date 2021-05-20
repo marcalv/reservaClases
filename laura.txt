@@ -1,7 +1,5 @@
 #TEST
 
-fija/6/10:45:00/CYCLING
-
 #LUNES
 fija/1/09:30:00/FUNCIONAL
 fija/1/18:15:00/STEP
