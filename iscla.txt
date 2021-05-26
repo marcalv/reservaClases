@@ -2,7 +2,7 @@
 # fija/2/20:15:00/BODY COMBAT
 
 #Test
-fija/6/11:15:00/cCOMBAT
+fija/6/11:15:00/COMBAT
 
 # Lunes
 fija/1/19:15:00/ATTACK
