@@ -2,7 +2,7 @@
 # fija/2/20:15:00/BODY COMBAT
 
 #Test
-#fija/3/17:15:00/COMBAT
+fija/6/11:15:00/cCOMBAT
 
 # Lunes
 fija/1/19:15:00/ATTACK
@@ -21,6 +21,5 @@ fija/4/19:15:00/IOGA
 
 
 # Viernes
-fija/5/07:00:00/PUMP
 fija/5/17:15:00/BALANCE
 fija/5/20:15:00/ATTACK
