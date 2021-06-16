@@ -16,8 +16,8 @@ fija/4/19:15:00/AEROBIC
 fija/4/20:15:00/CUBE
 
 # Viernes
-# fija/5/19:15:00/COMBAT
-# fija/5/20:15:00/ATTACK
+fija/5/19:15:00/COMBAT
+fija/5/20:15:00/ATTACK
 
 
 # Sabado
