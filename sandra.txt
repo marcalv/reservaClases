@@ -6,7 +6,7 @@
 # Martes
 
 # Miercoles
-fija/3/20:15:00/CUBE
+#fija/3/20:15:00/CUBE
 
 # Jueves
 
