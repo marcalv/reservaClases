@@ -1,20 +1,21 @@
 # Test
 
 # Lunes
-#fija/1/18:15:00/STEP
+fija/1/18:15:00/STEP
 #fija/1/20:15:00/CUBE
 
 # Martes
 #fija/2/20:15:00/COMBAT
+fija/2/20:15:00/CUBE
 
 # Miercoles
-#fija/3/19:15:00/STEP
-#fija/3/20:15:00/CUBE
+fija/3/19:15:00/STEP
+fija/3/20:15:00/CUBE
 
 # Jueves
 #fija/4/19:15:00/AEROBIC
-# fija/4/20:15:00/BODYPUMP
-#fija/4/20:15:00/CUBE
+#fija/4/20:15:00/BODYPUMP
+fija/4/20:15:00/CUBE
 
 # Viernes
 #fija/5/19:15:00/COMBAT
@@ -22,4 +23,4 @@
 
 
 # Sabado
-#fija/6/11:15:00/STEP
+fija/6/11:15:00/STEP
